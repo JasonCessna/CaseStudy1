@@ -12,5 +12,5 @@ mean(productAndEducation$Ranking[productAndEducation$Income.Group == "High incom
 ## [1] 91.91304
 
 #### THE ANSWER TO QUESTION THREE IS:
-#### High income: OECD: $32.97 (in millions USD)
-#### High income: nonOECD: $91.91 (in millions USD)
+#### High income: OECD:    32.97
+#### High income: nonOECD: 91.91

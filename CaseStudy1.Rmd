@@ -1,5 +1,5 @@
 ---
-title: "CaseStudy1"
+title: "Case Study One: An Analysis on the Gross Domestic Product and Income of Countries in 2012"
 author: "Jason Cessna"
 date: "3/21/2017"
 output: html_document
@@ -77,7 +77,7 @@ nonOECD" groups?
 ```{r}
 source('Analysis/question3.R', echo=TRUE)
 ```
-The average (or mean) of the GDP of countries in the High Income: OECD income group is $32.97 (in millions USD), and the mean of the GDP of countries in the High Income: nonOECD income group is $91.91 (in millions USD).
+The average (or mean) of the ranking of countries based on their GDP in the High Income: OECD income group is 32.97, and the mean of the rankings of countries based on their GDP in the High Income: nonOECD income group is 91.91.
 
 ## QUESTION 4
 Show the distribution of GDP value for all the countries and color plots by income group. Use
